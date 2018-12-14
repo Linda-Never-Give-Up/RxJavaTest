@@ -3,7 +3,7 @@
 **Kotlin版本：**[https://github.com/cn-ljb/rxjava_for_kotlin](https://github.com/cn-ljb/rxjava_for_kotlin)
 
 
-	Android平台上使用RxJava的Demo
+	Android平台上使用RxJava的Demo的学习
 	
 	感谢DevFactory的Mohamed Ezzat对代码的优化和建议
 	
