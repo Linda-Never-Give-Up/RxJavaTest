@@ -6,9 +6,7 @@ import com.che58.ljb.rxjava.R;
 import com.che58.ljb.rxjava.fragment.main.MainFragment;
 import com.che58.ljb.rxjava.rxbus.RxBus;
 import com.trello.rxlifecycle.components.support.RxFragmentActivity;
-/**
-* MainActivity
-*/
+
 public class MainActivity extends RxFragmentActivity {
 
     private RxBus _rxBus;
